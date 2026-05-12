@@ -1,7 +1,7 @@
 # Hey, I'm Viraj Bijpuria  
 **Python Web Scraping | Data Engineer | Frontend Dev | Accessibility & SEO specialist**  
 
-I build tools, websites, and datasets that are fast, accessible, googleable and backed by real data. I work with AstroJS, Tailwind, Typescript, Python, SQLite, and Peewee ORM. I've also used Bootstrap and SASS.
+I build tools, websites, and datasets that are fast, accessible, googleable and backed by data. I work with AstroJS, Tailwind, Typescript, Python, SQLite, and Peewee ORM. I've also used Bootstrap and SASS.
 
 ---
 
